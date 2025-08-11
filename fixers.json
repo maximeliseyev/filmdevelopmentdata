@@ -1,0 +1,44 @@
+{
+  "rapid_fixer_1": {
+    "id": "rapid_fixer_1",
+    "name": "Ilford Rapid Fixer",
+    "type": "rapid",
+    "timeMinutes": 5,
+    "warning": null
+  },
+  "rapid_fixer_2": {
+    "id": "rapid_fixer_2",
+    "name": "Kodak Rapid Fixer",
+    "type": "rapid",
+    "timeMinutes": 5,
+    "warning": null
+  },
+  "acid_fixer_1": {
+    "id": "acid_fixer_1",
+    "name": "Ilford Acid Fixer",
+    "type": "acid",
+    "timeMinutes": 10,
+    "warning": null
+  },
+  "acid_fixer_2": {
+    "id": "acid_fixer_2",
+    "name": "Kodak Acid Fixer",
+    "type": "acid",
+    "timeMinutes": 10,
+    "warning": null
+  },
+  "neutral_fixer_1": {
+    "id": "neutral_fixer_1",
+    "name": "Ilford Neutral Fixer",
+    "type": "neutral",
+    "timeMinutes": 10,
+    "warning": "Обязательно используйте стоп-ванну перед фиксированием"
+  },
+  "neutral_fixer_2": {
+    "id": "neutral_fixer_2",
+    "name": "Kodak Neutral Fixer",
+    "type": "neutral",
+    "timeMinutes": 10,
+    "warning": "Обязательно используйте стоп-ванну перед фиксированием"
+  }
+}

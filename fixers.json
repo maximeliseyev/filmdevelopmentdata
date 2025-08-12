@@ -1,20 +1,17 @@
 {
   "rapid_fixer": {
-    "id": "rapid_fixer",
     "name": "Ilford Rapid Fixer",
     "type": "rapid",
     "time": 360,
     "warning": null
   },
   "acid_fixer": {
-    "id": "acid_fixer",
     "name": "Acid Fixer",
     "type": "acid",
     "time": 600,
     "warning": null
   },
   "neutral_fixer": {
-    "id": "neutral_fixer",
     "name": "Neutral Fixer",
     "type": "neutral",
     "time": 600,

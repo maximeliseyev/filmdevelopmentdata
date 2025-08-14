@@ -2,7 +2,7 @@
   "rapid_fixer": {
     "name": "Ilford Rapid Fixer",
     "type": "rapid",
-    "time": 360,
+    "time": 300,
     "warning": null
   },
   "acid_fixer": {

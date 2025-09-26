@@ -1,0 +1,182 @@
+{
+  "presets": [
+    {
+      "name": "C-41",
+      "description": "Standard color negative film process.",
+      "stages": [
+        {
+          "name": "stagingDevelopName",
+          "description": "stagingDevelopDescription",
+          "iconName": "flask.fill",
+          "color": "orange",
+          "duration": 195,
+          "temperature": 38
+        },
+        {
+          "name": "stagingBleachName",
+          "description": "stagingBleachDescription",
+          "iconName": "flask",
+          "color": "yellow",
+          "duration": 390,
+          "temperature": 38
+        },
+        {
+          "name": "stagingWashName",
+          "description": "stagingWashDescription",
+          "iconName": "drop",
+          "color": "cyan",
+          "duration": 195,
+          "temperature": 38
+        },
+        {
+          "name": "stagingFixerName",
+          "description": "stagingFixerDescription",
+          "iconName": "shield.fill",
+          "color": "purple",
+          "duration": 390,
+          "temperature": 38
+        },
+        {
+          "name": "stagingWashName",
+          "description": "stagingWashDescription",
+          "iconName": "drop",
+          "color": "cyan",
+          "duration": 195,
+          "temperature": 38
+        },
+        {
+          "name": "stagingStabilizeName",
+          "description": "stagingStabilizeDescription",
+          "iconName": "leaf.fill",
+          "color": "green",
+          "duration": 90,
+          "temperature": 24
+        }
+      ]
+    },
+    {
+      "name": "ECN-2",
+      "description": "Eastman Color Negative, for motion picture film.",
+      "stages": [
+        {
+          "name": "stagingPrebathName",
+          "description": "stagingPrebathDescription",
+          "iconName": "drop.fill",
+          "color": "blue",
+          "duration": 120,
+          "temperature": 41
+        },
+        {
+          "name": "stagingDevelopName",
+          "description": "stagingDevelopDescription",
+          "iconName": "flask.fill",
+          "color": "orange",
+          "duration": 180,
+          "temperature": 41
+        },
+        {
+          "name": "stagingStopBathName",
+          "description": "stagingStopBathDescription",
+          "iconName": "stop.fill",
+          "color": "red",
+          "duration": 60,
+          "temperature": 41
+        },
+        {
+          "name": "stagingWashName",
+          "description": "stagingWashDescription",
+          "iconName": "drop",
+          "color": "cyan",
+          "duration": 120,
+          "temperature": 41
+        },
+        {
+          "name": "stagingBleachName",
+          "description": "stagingBleachDescription",
+          "iconName": "flask",
+          "color": "yellow",
+          "duration": 180,
+          "temperature": 38
+        },
+        {
+          "name": "stagingWashName",
+          "description": "stagingWashDescription",
+          "iconName": "drop",
+          "color": "cyan",
+          "duration": 120,
+          "temperature": 38
+        },
+        {
+          "name": "stagingFixerName",
+          "description": "stagingFixerDescription",
+          "iconName": "shield.fill",
+          "color": "purple",
+          "duration": 240,
+          "temperature": 38
+        },
+        {
+          "name": "stagingWashName",
+          "description": "stagingWashDescription",
+          "iconName": "drop",
+          "color": "cyan",
+          "duration": 240,
+          "temperature": 38
+        },
+        {
+          "name": "stagingStabilizeName",
+          "description": "stagingStabilizeDescription",
+          "iconName": "leaf.fill",
+          "color": "green",
+          "duration": 60,
+          "temperature": 24
+        }
+      ]
+    },
+    {
+      "name": "B&W Standard",
+      "description": "A general-purpose black & white process.",
+      "stages": [
+        {
+          "name": "stagingPrebathName",
+          "description": "stagingPrebathDescription",
+          "iconName": "drop.fill",
+          "color": "blue",
+          "duration": 300,
+          "temperature": 20
+        },
+        {
+          "name": "stagingDevelopName",
+          "description": "stagingDevelopDescription",
+          "iconName": "flask.fill",
+          "color": "orange",
+          "duration": 420,
+          "temperature": 20
+        },
+        {
+          "name": "stagingStopBathName",
+          "description": "stagingStopBathDescription",
+          "iconName": "stop.fill",
+          "color": "red",
+          "duration": 60,
+          "temperature": 20
+        },
+        {
+          "name": "stagingFixerName",
+          "description": "stagingFixerDescription",
+          "iconName": "shield.fill",
+          "color": "purple",
+          "duration": 300,
+          "temperature": 20
+        },
+        {
+          "name": "stagingWashName",
+          "description": "stagingWashDescription",
+          "iconName": "drop",
+          "color": "cyan",
+          "duration": 600,
+          "temperature": 20
+        }
+      ]
+    }
+  ]
+}
